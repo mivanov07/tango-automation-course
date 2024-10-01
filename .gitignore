@@ -1,0 +1,15 @@
+# Ignore a files .db
+*.db
+
+# Ignore a files .log
+*.log
+
+# Ignore a folders target and bin
+target/
+bin/
+
+# Ignore other system files
+*.bak
+*.tmp
+*.swp
+*.DS_Store
